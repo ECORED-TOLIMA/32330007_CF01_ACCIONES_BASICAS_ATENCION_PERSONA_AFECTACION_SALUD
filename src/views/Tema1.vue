@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Normatividad básica del primer respondiente
-    p.mb-4(data-aos="fade-down") El primer respondiente es la persona que, de manera inmediata, se encuentra en el lugar de un incidente y puede brindar atención inicial a una persona con afectación de la salud. Su actuación está respaldada y limitada por la normatividad vigente, que establece deberes y responsabilidades. La comprensión de este marco normativo es fundamental para garantizar la seguridad del primer respondiente y de la persona afectada.
+    p.mb-4(data-aos="fade-down") Ayudar a una persona que sufre una afectación de la salud es un acto humano, pero también es un acto con consecuencias jurídicas. Quien interviene en una emergencia entra en una relación con la persona afectada, con las autoridades y con la ley, y esa relación fija deberes y límites. Conocerlos no frena la ayuda, sino que la vuelve segura para ambas partes.
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require_src('@/assets/curso/temas/t1/img01.jpg')})`}"
@@ -20,7 +20,7 @@
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c02.p-3
           p.mb-0(data-aos="fade-down") En una vía urbana, por ejemplo, un conductor que se detiene ante un choque decide si mueve o no al lesionado, si pide autorización antes de tocarlo y si conserva el lugar tal como lo encontró.
-    p.mb-4(data-aos="fade-down") Cada una de esas decisiones se apoya en una norma que la respalda y, al mismo tiempo, le fija límites. Para comprender ese marco legal, conviene conocer cuatro asuntos, que se presentan en los siguientes recursos:
+    p.mb-4(data-aos="fade-down") Cada una de esas decisiones se apoya en una norma que la respalda y, al mismo tiempo, le fija límites. Para comprender ese marco legal, conviene conocer cuatro asuntos que se presentan en los siguientes recursos:
     .row.justify-content-center.mb-0(data-aos="flip-down")
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
@@ -78,9 +78,9 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto.text-center Artículo 2341 del Código Civil: quien por culpa causa un daño a otra persona está obligado a indemnizarlo
+          h4.text-regular.bloque-texto-f__texto.text-center Artículo 2341 del Código Civil: quien por culpa causa un daño a otra persona está obligado a indemnizarlo.
           .bloque-texto-f__autor.mb-3
-            h3.mb-0.text-ce -(Congreso de la República de Colombia, 1887)
+            h3.mb-0.text-ce -(Congreso de la República de Colombia, 1887).
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/temas/t1/img09.svg', alt='')
@@ -349,7 +349,7 @@
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c02.px-3.py-1
           p.mb-0(data-aos="fade-down") La tabla evidencia que ninguna de las acciones exige conocimientos periciales, porque todas consisten en contenerse, delimitar e informar. La única excepción es la prioridad de la atención, que autoriza a modificar la escena cuando la vida lo exige, siempre que después se comunique a la autoridad qué se movió y por qué.
-    p.mb-4 La definición legal de la cadena de custodia se apoya en cuatro atributos que todo elemento probatorio debe conservar desde el lugar de los hechos hasta el proceso judicial. Aunque verificarlos corresponde a la Policía Judicial, el primer respondiente es quien decide, en los primeros minutos, si esos atributos se mantienen o se pierden, porque nadie más ha llegado todavía. Conocerlos aclara por qué acciones tan simples como no mover un objeto tienen consecuencias jurídicas:
+    p.mb-4 La definición legal de la cadena de custodia se apoya en cuatro atributos que todo elemento probatorio debe conservar desde el lugar de los hechos hasta el proceso judicial. Aunque la verificación de estos atributos corresponde a la Policía Judicial, el primer respondiente debe preservarlos durante los primeros minutos, mientras se produce la llegada del personal especializado. Conocerlos aclara por qué acciones tan simples como no mover un objeto tienen consecuencias jurídicas:
     .row.justify-content-center.mb-4(data-aos="flip-down")
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100

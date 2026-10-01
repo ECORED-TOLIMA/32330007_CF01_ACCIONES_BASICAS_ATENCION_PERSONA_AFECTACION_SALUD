@@ -172,7 +172,7 @@
             .col-lg-10.mb-4.mb-lg-0
               h4 Activar el sistema de emergencias de manera oportuna
               p Solicitar apoyo especializado tan pronto la situación lo requiera, y no después de haber intentado resolverla sin éxito.
-    p.mb-4 Las siete normas no son acciones aisladas sino un sistema que orienta la conducta durante toda la intervención. Aplicadas de manera continua, anticipan riesgos, reducen la probabilidad de incidentes secundarios y mantienen el control del entorno, y constituyen la base sobre la que se desarrollan el aseguramiento de la escena, la señalización y la atención del lesionado.
+    p.mb-4 Las siete normas no son acciones aisladas, sino un sistema que orienta la conducta durante toda la intervención. Aplicadas de manera continua, anticipan riesgos, reducen la probabilidad de incidentes secundarios y mantienen el control del entorno, y constituyen la base sobre la que se desarrollan el aseguramiento de la escena, la señalización y la atención del lesionado.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure

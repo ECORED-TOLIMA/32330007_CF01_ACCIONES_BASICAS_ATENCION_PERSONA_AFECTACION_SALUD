@@ -12,7 +12,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0(data-aos="fade-down") La bioseguridad comprende el conjunto de principios, medidas y prácticas orientadas a prevenir, controlar y reducir la exposición a agentes biológicos que puedan afectar la salud de las personas. En la atención de emergencias protege al respondiente y a la persona afectada, sobre todo cuando hay contacto con sangre, secreciones u otros fluidos corporales potencialmente contaminados.
-    p.mb-4 No es una acción puntual sino un proceso continuo, que comienza antes del contacto con la persona afectada, se mantiene durante la atención y termina con la disposición segura de los elementos utilizados. En Colombia se respalda en los lineamientos del Ministerio de Salud y Protección Social y en el Sistema de Gestión de Seguridad y Salud en el Trabajo. Este último obliga a identificar, evaluar y controlar el riesgo biológico en los distintos entornos.
+    p.mb-4 No es una acción puntual sino, un proceso continuo que comienza antes del contacto con la persona afectada, se mantiene durante la atención y termina con la disposición segura de los elementos utilizados. En Colombia se respalda en los lineamientos del Ministerio de Salud y Protección Social y en el Sistema de Gestión de Seguridad y Salud en el Trabajo. Este último obliga a identificar, evaluar y controlar el riesgo biológico en los distintos entornos.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
@@ -215,7 +215,7 @@
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
                   img(src='@/assets/curso/temas/t5/img21.svg', alt='')(style="width: 85%")
-            h4.text-center Elementos de protección personal (EPP)
+            h4.text-center Elementos de Protección Personal (EPP)
             p.mb-4(data-aos="fade-down") Barreras físicas, como guantes, tapabocas y gafas, que evitan el contacto directo con fluidos corporales; se seleccionan según el procedimiento y se retiran con cuidado para no contaminar la piel ni la ropa.
           .col-xl.col-lg-6.tarjeta.tarjeta-c04.p-5
             .row.justify-content-center.mb-3
@@ -299,7 +299,7 @@
     p.mb-4 Para romper el eslabón es necesario reconocerlo en la escena, porque el mecanismo de transmisión no se presenta con un nombre sino como un gesto cotidiano, ya sea una mano sin guante, unas tijeras reutilizadas o una tos cercana. Cada mecanismo tiene una señal que lo delata y una barrera que lo interrumpe, y saber asociarlas es lo que convierte la bioseguridad en una práctica y no en una lista. En la atención de emergencias operan cuatro mecanismos:
     .row.justify-content-center.mb-4
       .col.col-lg-8.col-12.mb-md-0.order-lg-1.order-2
-        p.mb-4(data-aos="fade-down") Para que la intervención quede cubierta por ese margen de protección deben cumplirse cuatro condiciones:
+        //-p.mb-4(data-aos="fade-down") Para que la intervención quede cubierta por ese margen de protección deben cumplirse cuatro condiciones:
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-c01")
           .row(titulo="Contacto directo")
             .col-12.mb-0.mb-md-0

@@ -102,7 +102,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Autocuidado y estilos de vida saludable',
+            titulo: 'Autocuidado y estilos de vida saludables',
             hash: 't_3_1',
           },
           {

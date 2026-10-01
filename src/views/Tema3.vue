@@ -45,8 +45,8 @@
             figure
               img(src="@/assets/curso/temas/t3/img05.jpg", alt="")
           .crd_hover_txt--body
-            h5.t1.mb-3 Autocuidado y estilos de vida saludable
-            h5.t2.mb-2 Autocuidado y estilos de vida saludable
+            h5.t1.mb-3 Autocuidado y estilos de vida saludables
+            h5.t2.mb-2 Autocuidado y estilos de vida saludables
             p.mb-0 Las prácticas conscientes con las que cada persona protege su salud y mejora su capacidad de respuesta ante un evento adverso, desde la alimentación hasta el descanso.
       .col-xl-4.col-lg-4.col-md-10.col-12.mb-xl-0
         .crd_hover_txt.mb-4(data-aos="flip-left")(@mouseover="mostrarIndicador = true")
@@ -118,15 +118,15 @@
     p.mb-0 De todos esos frentes, el primero que se examina es el que depende por completo de cada persona, esto es, la manera en que cuida su propia salud en los días corrientes. Quien descuida su alimentación, su descanso o el control de sus enfermedades llega a la emergencia con menos capacidad de respuesta y con mayor riesgo de resultar afectado. Por esa razón, antes de proteger a otros, conviene comprender qué prácticas cotidianas sostienen la salud del propio respondiente.
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.1 Autocuidado y estilos de vida saludable
+      h2 3.1 Autocuidado y estilos de vida saludables
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/t3/img14.jpg', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
-        p.mb-3 El autocuidado es el conjunto de prácticas y decisiones individuales, conscientes y sostenidas, orientadas a preservar la salud y a prevenir riesgos. Los estilos de vida saludable son la expresión cotidiana de ese autocuidado, es decir, los comportamientos que inciden directamente en el estado de salud, en la funcionalidad y en la calidad de vida de una persona.
+        p.mb-3 El autocuidado es el conjunto de prácticas y decisiones individuales, conscientes y sostenidas, orientadas a preservar la salud y a prevenir riesgos. Los estilos de vida saludables son la expresión cotidiana de ese autocuidado, es decir, los comportamientos que inciden directamente en el estado de salud, en la funcionalidad y en la calidad de vida de una persona.
         .cajon.cajon.c02.color-primario.p-4.mb-3
-          p.mb-0 Desde la salud pública, los estilos de vida saludable se fundamentan en reducir los factores de riesgo modificables y en fortalecer los factores protectores. Eso incluye una alimentación equilibrada, la actividad física regular, el descanso adecuado, el manejo del estrés y la reducción de conductas de riesgo, en coherencia con las estrategias de promoción y prevención del Ministerio de Salud y Protección Social.
+          p.mb-0 Desde la salud pública, los estilos de vida saludables se fundamentan en reducir los factores de riesgo modificables y en fortalecer los factores protectores. Eso incluye una alimentación equilibrada, la actividad física regular, el descanso adecuado, el manejo del estrés y la reducción de conductas de riesgo, en coherencia con las estrategias de promoción y prevención del Ministerio de Salud y Protección Social.
         p.mb-0 Para la atención inicial, estos estilos tienen una relevancia operativa. La condición basal de la persona afectada determina en gran medida la gravedad del evento y su evolución. El estado cardiovascular, la capacidad respiratoria, la presencia de enfermedades crónicas y el nivel de respuesta al estrés modifican la reacción del organismo ante una lesión. Un mismo golpe en el pecho tiene consecuencias distintas en un ciclista de cuarenta años y en un fumador sedentario con hipertensión.
     p.mb-4 Esa diferencia entre dos personas que reciben el mismo golpe no es casual, sino el resultado de una cadena que empieza mucho antes del incidente. Lo que alguien hace a diario con su cuerpo produce un estado de salud, y ese estado define cómo responde el organismo cuando llega la lesión. Comprender esa cadena permite al primer respondiente anticipar la evolución de la persona afectada y valorar sus propios hábitos. Sus tres eslabones son los siguientes:
     .row.justify-content-center.mb-4

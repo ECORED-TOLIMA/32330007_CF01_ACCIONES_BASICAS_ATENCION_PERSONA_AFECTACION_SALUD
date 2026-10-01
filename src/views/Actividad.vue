@@ -297,7 +297,7 @@ export default {
         {
           id: 9,
           texto:
-            '¿Qué relación tienen los estilos de vida saludable con las emergencias?',
+            '¿Qué relación tienen los estilos de vida saludables con las emergencias?',
           imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [

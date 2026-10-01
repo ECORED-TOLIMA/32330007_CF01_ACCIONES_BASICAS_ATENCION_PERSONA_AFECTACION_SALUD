@@ -366,7 +366,7 @@
       .col.col-12
         .cajon.cajon.c02.color-primario.p-4.mb-4
           p.mb-0 No todos los riesgos presentes en una escena tienen el mismo peso. Algunos son evidentes y exigen acción inmediata, como el fuego o el tránsito; otros permanecen latentes, como un cable sin aislar bajo el agua o una estructura debilitada, y solo se manifiestan cuando alguien entra en contacto con ellos. Distinguir unos de otros evita que el peligro más notorio oculte al más grave.
-    p.mb-4 Cuando en una escena coinciden varios peligros no es posible controlarlos todos al mismo tiempo, y la decisión por cuál empezar no puede dejarse a la intuición. La valoración del riesgo ordena esa decisión con tres criterios que se aplican a cada peligro identificado, de modo que el primero en atenderse sea el que combina mayor probabilidad, mayor daño posible y mayor cercanía a las personas:
+    p.mb-4 Cuando en una escena coinciden varios peligros no es posible controlarlos todos al mismo tiempo, y la decisión de cuál atender primero no puede dejarse a la intuición. La valoración del riesgo ordena esa decisión con tres criterios que se aplican a cada peligro identificado, de modo que el primero en atenderse sea el que combina mayor probabilidad, mayor daño posible y mayor cercanía a las personas:
     .row.mb-4
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
