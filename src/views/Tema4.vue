@@ -95,7 +95,7 @@
                   .tarjeta.bg-white.p-4
                     TarjetaAudio.color-acento-botones.mb-3(
                     texto="Pódcast"
-                    :audio="require_src('@/assets/curso/Podcast_CF03_62360022.mp3')"
+                    :audio="require_src('@/assets/curso/32330007_CF01_Guion_podcast_01_Antes de que suene la sirena.mp3')"
                     @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
                     .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
