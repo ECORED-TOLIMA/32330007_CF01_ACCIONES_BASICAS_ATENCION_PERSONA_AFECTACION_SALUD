@@ -12,7 +12,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0(data-aos="fade-down") La bioseguridad comprende el conjunto de principios, medidas y prácticas orientadas a prevenir, controlar y reducir la exposición a agentes biológicos que puedan afectar la salud de las personas. En la atención de emergencias protege al respondiente y a la persona afectada, sobre todo cuando hay contacto con sangre, secreciones u otros fluidos corporales potencialmente contaminados.
-    p.mb-4 No es una acción puntual sino, un proceso continuo que comienza antes del contacto con la persona afectada, se mantiene durante la atención y termina con la disposición segura de los elementos utilizados. En Colombia se respalda en los lineamientos del Ministerio de Salud y Protección Social y en el Sistema de Gestión de Seguridad y Salud en el Trabajo. Este último obliga a identificar, evaluar y controlar el riesgo biológico en los distintos entornos.
+    p.mb-4 No es una acción puntual, sino un proceso continuo que comienza antes del contacto con la persona afectada, se mantiene durante la atención y termina con la disposición segura de los elementos utilizados. En Colombia se respalda en los lineamientos del Ministerio de Salud y Protección Social y en el Sistema de Gestión de Seguridad y Salud en el Trabajo. Este último obliga a identificar, evaluar y controlar el riesgo biológico en los distintos entornos.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
@@ -61,7 +61,7 @@
                       img(src="@/assets/curso/temas/t5/img08.svg", alt="").img100.m-auto
                   h4.text-center Botiquín de primeros auxilios
                   p.text-center El recurso material que hace posible la atención inicial, con las características que debe cumplir y el contenido básico organizado por función, sin medicamentos de prescripción.
-    p.mb-0 Los cinco apartados completan el recorrido iniciado con la normatividad, porque cada uno resuelve una parte de lo que ocurre después de asegurar el lugar. Quien conoce sus deberes, valora la escena, previene y protege el área llega a este punto con el entorno bajo control, aunque todavía expuesto a lo que no se ve. Lo que sigue es aprender a interponer barreras, a pedir ayuda con precisión y a disponer de los elementos que hacen posible la atención.
+    p.mb-0 Los cinco apartados completan el recorrido iniciado con la normatividad, porque cada uno resuelve una parte de lo que ocurre después de asegurar el lugar. Quien conoce sus deberes, valora la escena, previene y protege el área, llega a este punto con el entorno bajo control, aunque todavía expuesto a lo que no se ve. Lo que sigue es aprender a interponer barreras, a pedir ayuda con precisión y a disponer de los elementos que hacen posible la atención.
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.1 Principios y elementos de protección personal
@@ -96,7 +96,7 @@
             figure
               img(src="@/assets/curso/temas/t5/img12.svg", alt="alt").img80.m-auto
           h4.text-center Uso de barreras 
-          p Se interponen elementos de protección personal que evitan el contacto directo con fluidos o materiales contaminados. En el terreno: guantes, mascarilla o gafas según el riesgo, y a falta de ellos una bolsa o una tela limpia como barrera.
+          p Se interponen elementos de protección personal que evitan el contacto directo con fluidos o materiales contaminados. En el terreno: guantes, mascarilla o gafas según el riesgo, y a falta de ellos, una bolsa o una tela limpia como barrera.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
@@ -152,7 +152,7 @@
       .col.col-lg-7.col-12.order-lg-2.order-2
         p.mb-3 En la atención de emergencias, el conjunto de prácticas estandarizadas que previenen la exposición a agentes biológicos y evitan la transmisión de enfermedades constituye lo que se conoce como técnicas de bioseguridad. Complementan el uso de los elementos de protección personal y se ejecutan de manera rigurosa y continua antes, durante y después del contacto con la persona afectada.
         .cajon.cajon.c02.color-primario.p-3.mb-3
-          p.mb-0 Su aplicación adecuada mantiene condiciones seguras en la escena, reduce el riesgo de contaminación cruzada y garantiza una atención responsable. Las técnicas no son acciones aisladas sino parte de un proceso sistemático que acompaña toda la intervención, y su eficacia depende de la disciplina, de la conciencia del riesgo y de la adherencia a los protocolos.
+          p.mb-0 Su aplicación adecuada mantiene condiciones seguras en la escena, reduce el riesgo de contaminación cruzada y garantiza una atención responsable. Las técnicas no son acciones aisladas, sino parte de un proceso sistemático que acompaña toda la intervención, y su eficacia depende de la disciplina, de la conciencia del riesgo y de la adherencia a los protocolos.
         .cajon.cajon.c04.p-4.mb-0
           p.mb-0 Un conductor de ambulancia que traslada a un paciente con una herida infectada lo sabe bien. El riesgo no termina cuando el paciente baja del vehículo, sino cuando la camilla y las superficies quedan limpias y las manos lavadas.
     p.mb-4 La siguiente tabla organiza las técnicas principales, describe en qué consiste cada una y precisa el momento y la forma de aplicarla durante la atención, de modo que se siga como una secuencia de antes, durante y después:
@@ -278,7 +278,7 @@
           img(src='@/assets/curso/temas/t5/img26.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.px-3.py-1
-          p.mb-0(data-aos="fade-down") La transmisión no ocurre de manera aislada sino a través de un proceso en el que intervienen una fuente de infección, un mecanismo de transmisión y una persona susceptible. Ese proceso se conoce como cadena de transmisión, y comprenderlo señala dónde es posible intervenir para interrumpirla.
+          p.mb-0(data-aos="fade-down") La transmisión no ocurre de manera aislada, sino a través de un proceso en el que intervienen una fuente de infección, un mecanismo de transmisión y una persona susceptible. Ese proceso se conoce como cadena de transmisión, y comprenderlo señala dónde es posible intervenir para interrumpirla.
     p.mb-4 La siguiente figura representa esa cadena, pues sitúa en secuencia la fuente, el mecanismo, la persona susceptible y la posible infección, y se lee de izquierda a derecha como el recorrido del agente infeccioso:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
@@ -296,7 +296,7 @@
       .col-12.col-lg-10
         .cajon.cajon.c01.color-secundario.p-4.mb-0
           p.mb-0 De acuerdo con la cadena descrita, la infección es el resultado de una secuencia completa y no de un solo contacto. Por esa razón, basta con romper uno de sus eslabones, casi siempre el mecanismo de transmisión, para que el agente no alcance a la persona susceptible.
-    p.mb-4 Para romper el eslabón es necesario reconocerlo en la escena, porque el mecanismo de transmisión no se presenta con un nombre sino como un gesto cotidiano, ya sea una mano sin guante, unas tijeras reutilizadas o una tos cercana. Cada mecanismo tiene una señal que lo delata y una barrera que lo interrumpe, y saber asociarlas es lo que convierte la bioseguridad en una práctica y no en una lista. En la atención de emergencias operan cuatro mecanismos:
+    p.mb-4 Para romper el eslabón es necesario reconocerlo en la escena, porque el mecanismo de transmisión no se presenta con un nombre, sino como un gesto cotidiano, ya sea una mano sin guante, unas tijeras reutilizadas o una tos cercana. Cada mecanismo tiene una señal que lo delata y una barrera que lo interrumpe, y saber asociarlas es lo que convierte la bioseguridad en una práctica y no en una lista. En la atención de emergencias operan cuatro mecanismos:
     .row.justify-content-center.mb-4
       .col.col-lg-8.col-12.mb-md-0.order-lg-1.order-2
         //-p.mb-4(data-aos="fade-down") Para que la intervención quede cubierta por ese margen de protección deben cumplirse cuatro condiciones:
@@ -423,7 +423,7 @@
           img(src='@/assets/curso/temas/t5/img43.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.p-3
-          p.mb-0(data-aos="fade-down") La llamada al 123 no es el final de la ayuda sino su multiplicación, porque convierte a una persona sola frente a un incidente en el primer eslabón de una cadena de respuesta.
+          p.mb-0(data-aos="fade-down") La llamada al 123 no es el final de la ayuda, sino su multiplicación, porque convierte a una persona sola frente a un incidente en el primer eslabón de una cadena de respuesta.
     p.mb-0 Mientras el sistema de emergencias se moviliza, la atención no se detiene, continúa en el lugar del evento con los recursos que allí se encuentran disponibles. De todos ellos, el que más aporta a una respuesta oportuna es el botiquín de primeros auxilios, siempre que esté completo y bien mantenido. Contar con los elementos adecuados y saber emplearlos permite estabilizar a la persona afectada durante los minutos que transcurren hasta la llegada del personal especializado. Por esa razón, conocer qué debe contener un botiquín y cómo mantenerlo listo para su uso resulta tan decisivo como dominar las maniobras de atención.
     separador
     #t_5_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -435,7 +435,7 @@
       .col.col-lg-7.col-12.order-lg-1.order-2
         .cajon.cajon.c02.color-primario.p-3.mb-4
           p.mb-0 El botiquín de primeros auxilios es el conjunto de elementos básicos organizados para brindar atención inicial ante situaciones que afectan la salud. Su efectividad no depende únicamente de lo que contiene, sino de las condiciones en que se encuentra disponible, es decir, accesible, organizado, conservado y completo.
-        p.mb-4(data-aos="fade-down") Esas condiciones hacen que los insumos estén en buen estado, faciliten la intervención y reduzcan el riesgo de errores durante la atención. Un botiquín cerrado con llave, guardado en una oficina lejana o lleno de elementos vencidos deja de ser un recurso y se convierte en una falsa seguridad.
+        p.mb-4(data-aos="fade-down") Esas condiciones hacen que los insumos estén en buen estado, faciliten la intervención y reduzcan el riesgo de errores durante la atención. Un botiquín cerrado con llave, guardado en una oficina lejana o lleno de elementos vencidos, deja de ser un recurso y se convierte en una falsa seguridad.
         .cajon.cajon.c04.p-3.mb-0
           p.mb-0 El uso del botiquín se realiza de manera responsable. Se aplican medidas de bioseguridad, se emplean únicamente los elementos necesarios y se evitan procedimientos para los que no hay formación. Tampoco se incluyen medicamentos sin prescripción, porque su uso inadecuado genera riesgos. En una empresa de transporte, la brigada revisa cada mes los botiquines de los buses, repone lo usado y descarta lo vencido.
     p.mb-4 En la siguiente tabla reúne las características que debe cumplir un botiquín, de modo que para cada una describe el requisito técnico y explica por qué importa en la atención, de modo que sirva como lista de verificación:

@@ -104,7 +104,7 @@
               img(src='@/assets/curso/temas/t4/img10.svg', alt='')
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
-        p.mb-4 Al terminar el pódcast conviene reconstruir el orden en que se presentan las ideas, porque ese orden es el mismo que se sigue en una escena real. Primero se recuerdan las normas que gobiernan la conducta, luego se formulan las tres preguntas y, solo entonces, se eligen la protección y las señales. Contrastar ese recorrido con lo que cada persona haría por instinto revela los pasos que suelen omitirse.
+        p.mb-4 Al terminar el pódcast, conviene reconstruir el orden en que se presentan las ideas, porque ese orden es el mismo que se sigue en una escena real. Primero se recuerdan las normas que gobiernan la conducta, luego se formulan las tres preguntas y, solo entonces, se eligen la protección y las señales. Contrastar ese recorrido con lo que cada persona haría por instinto revela los pasos que suelen omitirse.
         .cajon.cajon.c01.color-secundario.p-4.mb-0
           p.mb-0 Ese recorrido empieza por las normas, porque de ellas se derivan las demás decisiones. Antes de preguntar si el lugar es seguro o de elegir un chaleco, el respondiente ya obedece unas reglas que le indican cuándo acercarse, cuándo abstenerse y cuándo pedir apoyo. Conocerlas evita que la urgencia las reemplace por el impulso, y por eso son la base del aseguramiento del área, la señalización y la atención posterior de la persona lesionada.
     separador
@@ -151,21 +151,21 @@
             .col-lg-10.mb-4.mb-lg-0
               h4 Actuar dentro del alcance de la formación
               p Evitar procedimientos para los cuales no se tiene competencia técnica, por bien intencionados que parezcan en el momento.
-          .row(titulo="2")
+          .row(titulo="5")
             .col-lg-2
               figure
                 img(src='@/assets/curso/temas/t4/img16.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Mantener el control emocional
               p Favorecer decisiones adecuadas bajo presión, con voz calmada e instrucciones claras para quienes rodean la escena y quieren ayudar.
-          .row(titulo="3")
+          .row(titulo="6")
             .col-lg-2
               figure
                 img(src='@/assets/curso/temas/t4/img17.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Utilizar los elementos de protección personal
               p Según el riesgo identificado, sin excepciones por prisa, por falta de costumbre o por la apariencia de la persona afectada.
-          .row(titulo="4")
+          .row(titulo="7")
             .col-lg-2
               figure
                 img(src='@/assets/curso/temas/t4/img18.svg', alt='')
@@ -264,7 +264,6 @@
         p.mb-3 Ambas herramientas se eligen a partir de la evaluación de la escena y de los riesgos identificados. Una brigadista de una planta de alimentos que atiende un corte usa guantes y gafas; si el mismo corte ocurre en la vía frente a la planta, añade un chaleco reflectivo y señales para el tránsito.
         .cajon.cajon.c04.p-4.mb-0
           p.mb-0 El ejemplo muestra que no existe un equipo único para todas las emergencias, sino una selección que se ajusta al riesgo presente en cada escena. La pregunta que orienta esa selección es qué parte del cuerpo queda expuesta y ante qué agente, ya sean fluidos, salpicaduras, partículas en el aire o vehículos en movimiento.
-    p El ejemplo muestra que no existe un equipo único para todas las emergencias, sino una selección que se ajusta al riesgo presente en cada escena. La pregunta que orienta esa selección es qué parte del cuerpo queda expuesta y ante qué agente, ya sean fluidos, salpicaduras, partículas en el aire o vehículos en movimiento.
     p.mb-4 Conocer la función de cada elemento evita tanto el exceso que retrasa la atención como la omisión que expone a quien interviene. Según el tipo de riesgo, los elementos se seleccionan así:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
@@ -301,7 +300,7 @@
     .row.justify-content-center.mb-4
       .cajon.cajon.c01.color-secundario.p-4.mb-0
         p.mb-0 Usar los elementos de protección no se limita a colocarlos, sino que supone verificar su estado, retirarlos de forma segura y disponerlos correctamente para evitar la contaminación cruzada. En Colombia, su uso en el ámbito laboral está respaldado por el Decreto 1072 de 2015, ya citado, dentro del Sistema de Gestión de Seguridad y Salud en el Trabajo.
-    p Para que la señalización cumpla su función debe ser perceptible, clara y estar ubicada de manera estratégica. Los elementos deben identificarse con facilidad, comprenderse sin explicación y colocarse a una distancia que advierta el riesgo con anticipación. Con frecuencia el respondiente improvisa con lo que tiene, como un vehículo con luces de emergencia, una prenda de color vivo, una rama.
+    p Para que la señalización cumpla su función, debe ser perceptible, clara y estar ubicada de manera estratégica. Los elementos deben identificarse con facilidad, comprenderse sin explicación y colocarse a una distancia que advierta el riesgo con anticipación. Con frecuencia, el respondiente improvisa con lo que tiene, como un vehículo con luces de emergencia, una prenda de color vivo, una rama.
     p.mb-4 Improvisar no significa actuar sin método. Con un cono o con una rama, la señalización cumple el mismo propósito, que consiste en que quienes se aproximan perciban el peligro a tiempo y modifiquen su conducta antes de llegar al lugar. Para lograrlo no basta con colocar un objeto llamativo, sino que se requiere una secuencia de decisiones sobre dónde, cómo y hasta cuándo señalizar. Esa secuencia comprende cuatro acciones:
     .row.mb-4
       .col-lg.col-md-6.mb-lg-0.mb-4(data-aos="fade-right")
@@ -370,7 +369,7 @@
       .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/t4/img23.jpg', alt='')
-    p Estos cuatro principios se cumplen al mismo tiempo o no se cumplen, pues un dispositivo bien anticipado pero sin visibilidad nocturna, o perceptible pero mal ubicado, deja la escena expuesta. Ninguno compensa la ausencia de otro, ya que cada uno resuelve una parte distinta del problema, esto es, cuándo advertir, cómo desviar, con qué hacerse notar y durante cuánto tiempo sostener la protección. Por esa razón el balizaje se evalúa como un conjunto y no dispositivo por dispositivo.
+    p Estos cuatro principios se cumplen al mismo tiempo o no se cumplen, pues un dispositivo bien anticipado pero sin visibilidad nocturna, o perceptible pero mal ubicado, deja la escena expuesta. Ninguno compensa la ausencia de otro, ya que cada uno resuelve una parte distinta del problema, esto es, cuándo advertir, cómo desviar, con qué hacerse notar y durante cuánto tiempo sostener la protección. Por esa razón, el balizaje se evalúa como un conjunto y no dispositivo por dispositivo.
     p.mb-4 Esa combinación se comprende mejor de forma gráfica, porque cada principio ocupa un tramo distinto de la vía y en un orden que no admite alteraciones. La siguiente figura recorre ese trayecto completo en cuatro zonas consecutivas, desde el primer dispositivo que advierte el peligro hasta el espacio libre donde trabajan quienes atienden. Identificar dónde empieza y dónde termina cada zona permite reconocer, en cualquier vía, cuánto espacio exige una escena protegida:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12

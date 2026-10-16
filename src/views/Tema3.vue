@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Prevención y autocuidado
-    p.mb-4 La mejor emergencia es la que no ocurre. Antes de la escena, del incidente y del riesgo existe un espacio de decisiones cotidianas que determina cuántas veces una persona necesitará ayuda y con qué condición de salud la recibirá. Ese espacio es el de la prevención y el autocuidado, dos nociones que hacen parte de la atención inicial, aunque se ejerzan mucho antes de ella.
+    p.mb-4 La mejor emergencia es la que no ocurre. Antes de la escena, del incidente y del riesgo, existe un espacio de decisiones cotidianas que determina cuántas veces una persona necesitará ayuda y con qué condición de salud la recibirá. Ese espacio es el de la prevención y el autocuidado, dos nociones que hacen parte de la atención inicial, aunque se ejerzan mucho antes de ella.
     figure.mb-4
       img(src='@/assets/curso/temas/t3/img01.png', alt='')
     p.mb-4 Ambas se articulan con los principios de la gestión del riesgo y con los lineamientos de promoción y prevención del sector salud, que buscan disminuir la carga de enfermedad y los eventos prevenibles. Desde el punto de vista del primer respondiente, importan por dos razones:
@@ -35,7 +35,7 @@
           img(src='@/assets/curso/temas/t3/img04.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.p-3
-          p.mb-0(data-aos="fade-down") Una brigadista de una empresa de logística lo comprueba cada día, pues los compañeros que usan el arnés duermen lo suficiente y mantienen controlada su presión arterial sufren menos accidentes y se recuperan mejor cuando los sufren.
+          p.mb-0(data-aos="fade-down") Una brigadista de una empresa de logística lo comprueba cada día, pues los compañeros que usan el arnés duermen lo suficiente y mantienen controlada su presión arterial, sufren menos accidentes y se recuperan mejor cuando los sufren.
     p.mb-4 La prevención se ejerce en tres planos que se complementan. El primero es el cuidado de la propia salud mediante hábitos cotidianos; el segundo, la protección frente a las enfermedades que pueden contraerse o transmitirse durante la atención; y el tercero, la reducción de las lesiones en los lugares donde transcurre la vida diaria. Cada uno de esos planos se presenta a continuación:
     .row.justify-content-center
       .col-xl-4.col-lg-4.col-md-10.col-12.mb-xl-0
@@ -246,7 +246,7 @@
       .col.col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/t3/img27.png', alt='')
-    p.mb-4 En los tres entornos la prevención sigue la misma lógica, que consiste en reconocer el peligro antes de que se materialice, mantener condiciones seguras y adoptar conductas que reduzcan la exposición. Lo que cambia es quién tiene la responsabilidad de hacerlo, es decir, la familia en el hogar, cada usuario en la vía y el empleador con sus trabajadores en el ámbito laboral.
+    p.mb-4 En los tres entornos, la prevención sigue la misma lógica, que consiste en reconocer el peligro antes de que se materialice, mantener condiciones seguras y adoptar conductas que reduzcan la exposición. Lo que cambia es quién tiene la responsabilidad de hacerlo, es decir, la familia en el hogar, cada usuario en la vía y el empleador con sus trabajadores en el ámbito laboral.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
@@ -268,7 +268,7 @@
     p.mb-4 Los cuatro tipos no se excluyen, sino que se combinan, aunque su eficacia disminuye en el orden presentado. Cuando en un entorno solo se dispone de la protección personal, la prevención descansa por completo en el hábito de cada persona, y ese hábito es el mismo que se exige al primer respondiente cuando llega a una escena.
     .row.justify-content-center.mb-0
       .cajon.cajon.c01.color-secundario.p-4.mb-0
-        p.mb-0 Aun con la mejor prevención, los incidentes siguen ocurriendo, y cuando eso pasa la atención inicial se enfrenta a un lugar que todavía puede lesionar. Las medidas que evitan el daño en la vida cotidiana tienen entonces un equivalente inmediato, que consiste en volver seguro el sitio antes de intervenir. Ese aseguramiento tiene sus propias normas, unos factores que se valoran en segundos y unas herramientas para proteger a quien interviene y advertir a los demás, y a ellos se dedica el siguiente recorrido.
+        p.mb-0 Aun con la mejor prevención, los incidentes siguen ocurriendo, y cuando eso pasa, la atención inicial se enfrenta a un lugar que todavía puede lesionar. Las medidas que evitan el daño en la vida cotidiana tienen entonces un equivalente inmediato, que consiste en volver seguro el sitio antes de intervenir. Ese aseguramiento tiene sus propias normas, unos factores que se valoran en segundos y unas herramientas para proteger a quien interviene y advertir a los demás, y a ellos se dedica el siguiente recorrido.
 </template>
 <script>
 export default {

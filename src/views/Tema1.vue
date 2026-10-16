@@ -62,7 +62,7 @@
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-8.col-12.order-lg-2.order-2
         .cajon.c03.p-4.h-100.w-100
-          p(data-aos="fade-down") En la atención inicial de emergencias este concepto importa porque el primer respondiente asume una responsabilidad al intervenir. Esa responsabilidad supone actuar con diligencia, con prudencia y dentro de los límites de la propia formación. Aplicar únicamente los procedimientos para los cuales se está capacitado, seguir las guías de primeros auxilios y evitar acciones que agraven la condición del lesionado son las tres conductas que la ley espera.
+          p(data-aos="fade-down") En la atención inicial de emergencias, este concepto importa porque el primer respondiente asume una responsabilidad al intervenir. Esa responsabilidad supone actuar con diligencia, con prudencia y dentro de los límites de la propia formación. Aplicar únicamente los procedimientos para los cuales se está capacitado, seguir las guías de primeros auxilios y evitar acciones que agraven la condición del lesionado son las tres conductas que la ley espera.
           .row.align-items-center.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
@@ -111,7 +111,7 @@
           img(src='@/assets/curso/temas/t1/img11.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.p-3
-          p.mb-0(data-aos="fade-down") Ayudar de buena fe y dentro de la propia formación no genera responsabilidad; exceder ese límite para hacer más, puede convertir la ayuda en un daño que la ley obliga a reparar.
+          p.mb-0(data-aos="fade-down") Ayudar de buena fe y dentro de la propia formación no genera responsabilidad; exceder ese límite para hacer más puede convertir la ayuda en un daño que la ley obliga a reparar.
     p.mb-0(data-aos="fade-down") Saber cuándo la ayuda está protegida conduce a la pregunta contraria, es decir, qué conductas retiran esa protección. La ley describe cuatro fallas concretas, desde no actuar pudiendo hacerlo hasta actuar sin cuidado, y cada una tiene consecuencias distintas para quien interviene.
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -208,7 +208,7 @@
             p Lo que falta es el saber. Una maniobra mal ejecutada suma una lesión a la que ya existía y puede hacer responsable del daño a quien intervino. Cómo evitarla: limitarse a las acciones aprendidas y pedir apoyo para el resto.
           .tarjeta.tarjeta-c06.p-4(titulo="Negligencia")
             p Lo que falta es el cuidado. El conocimiento no protege si se omiten pasos básicos como evaluar la escena o usar barreras. Cómo evitarla: seguir el protocolo completo aunque la urgencia presione a saltarse etapas.
-    p.mb-4 La diferencia entre las cuatro no es de grado sino de origen. No intervenir cuando se puede ayudar, especialmente en situaciones evidentes de riesgo vital, puede constituir una falta legal y ética. Sin embargo, intervenir mal también tiene consecuencias, y por eso la impericia y la negligencia merecen un análisis más detenido.
+    p.mb-4 La diferencia entre las cuatro no es de grado, sino de origen. No intervenir cuando se puede ayudar, especialmente en situaciones evidentes de riesgo vital, puede constituir una falta legal y ética. Sin embargo, intervenir mal también tiene consecuencias, y por eso la impericia y la negligencia merecen un análisis más detenido.
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-1.order-2
         .cajon.c03.p-4.h-100.w-100
@@ -259,7 +259,7 @@
         br 
         br 
         p.mb-0 En Colombia, este principio se respalda en los artículos 15 y 16 de la Constitución Política, relacionados con la intimidad y el libre desarrollo de la personalidad. También se apoya en la Ley 23 de 1981, que fija las normas de ética médica y el deber de informar antes de cualquier procedimiento (Congreso de la República de Colombia, 1981). Aunque esa ley se dirige al personal de salud, su espíritu orienta a cualquier persona que interviene sobre otra, de modo que primero se explica y luego se actúa.
-    p.mb-4 En una emergencia el diálogo es corto y concreto. Una auxiliar de una empresa de alimentos que atiende a una compañera con una quemadura le dice qué va a hacer y espera una señal de aceptación antes de enfriar la lesión con agua. Ese gesto genera confianza, respeta la dignidad de la persona y evita conflictos posteriores por intervenciones no autorizadas.
+    p.mb-4 En una emergencia, el diálogo es corto y concreto. Una auxiliar de una empresa de alimentos que atiende a una compañera con una quemadura le dice qué va a hacer y espera una señal de aceptación antes de enfriar la lesión con agua. Ese gesto genera confianza, respeta la dignidad de la persona y evita conflictos posteriores por intervenciones no autorizadas.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-8.col-12
         .tarjeta.tarjeta-c04.px-2.py-2.h-100

@@ -13,7 +13,7 @@
       .col.col-lg-7.col-12.order-lg-2.order-2
         p Toda emergencia ocurre en un lugar y tiene una causa. El lugar es la escena; la causa es el incidente; y entre ambos se distribuyen los riesgos que amenazan a la persona afectada, al respondiente y a quienes se acercan. Comprender esas tres nociones es el primer paso de cualquier atención, porque orienta la toma de decisiones antes de que exista contacto con el lesionado.
         .cajon.cajon.c01.color-secundario.p-4.mb-4
-          p.mb-0 La distinción tiene consecuencias prácticas. Una misma lesión, una fractura de pierna, por ejemplo, exige acciones distintas si ocurre en la cocina de una casa, en una carretera de montaña o en una planta de producción con maquinaria en movimiento. Lo que cambia no es la lesión sino la escena, y con ella el conjunto de peligros que deben controlarse antes de intervenir.
+          p.mb-0 La distinción tiene consecuencias prácticas. Una misma lesión, una fractura de pierna, por ejemplo, exige acciones distintas si ocurre en la cocina de una casa, en una carretera de montaña o en una planta de producción con maquinaria en movimiento. Lo que cambia no es la lesión, sino la escena, y con ella el conjunto de peligros que deben controlarse antes de intervenir.
         p.mb-0 En una obra de construcción, un ayudante cae de un andamio. Quien llega primero se enfrenta a un incidente (la caída), a una escena (el andamio, los materiales, la altura) y a varios riesgos (objetos que pueden desprenderse, cables, otros trabajadores que se aglomeran).
     .row.justify-content-center.align-items-center.mb-4
       .cajon.cajon.c04.p-3
@@ -133,7 +133,7 @@
                 img(src='@/assets/curso/temas/t2/img10.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Identificar los peligros desde una distancia segura
-              p Antes de entrar se reconocen el fuego, el humo, el tránsito, los cables, las estructuras dañadas o las personas agresivas que puedan afectar a quien se acerca.
+              p Antes de entrar, se reconocen el fuego, el humo, el tránsito, los cables, las estructuras dañadas o las personas agresivas que puedan afectar a quien se acerca.
           .row(titulo="2")
             .col-lg-2
               figure
@@ -196,7 +196,7 @@
               img(src="@/assets/curso/temas/t2/img18.svg", alt="alt").img80.m-auto
           h4.text-center Los factores ambientales
           p Las condiciones del entorno que agravan el cuadro o crean nuevos peligros, como la lluvia, el calor, la oscuridad, el humo o la presencia de tránsito.
-    p.mb-4 Las tres condiciones se valoran juntas, porque ninguna explica el incidente por sí sola. El mecanismo indica el tipo de daño, la energía su posible gravedad y el ambiente las complicaciones que pueden sumarse. Un caso sencillo permite comprobarlo.
+    p.mb-4 Las tres condiciones se valoran juntas, porque ninguna explica el incidente por sí sola. El mecanismo indica el tipo de daño, la energía, su posible gravedad y el ambiente, las complicaciones que pueden sumarse. Un caso sencillo permite comprobarlo.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
@@ -207,7 +207,6 @@
     p.mb-4 Interpretar el mecanismo, la energía y el ambiente no es un ejercicio aislado, sino parte de un análisis que avanza siempre en el mismo orden. Primero se establece qué pasó, luego se identifican los factores que pueden agravar la situación y, con esa base, se define qué hacer y a quién llamar. Ese orden convierte la información dispersa de la escena en decisiones, y sus tres momentos que se presentan a continuación:
     .row.justify-content-center.mb-4
       .col.col-lg-8.col-12.mb-md-0.order-lg-1.order-2
-        p.mb-4(data-aos="fade-down") Para que la intervención quede cubierta por ese margen de protección deben cumplirse cuatro condiciones:
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-c01")
           .row(titulo="Incidente")
             .col-12.mb-0.mb-md-0
@@ -252,7 +251,7 @@
               .lista-ol--cuadro__vineta
                 span.text-bold 4
               p.mb-0 Un cable caído puede volver a energizarse cuando se restablece el servicio eléctrico.
-    p.mb-4 En todos los casos el riesgo aparece después de la primera valoración y no antes. Quien la da por terminada al llegar queda expuesto a un peligro que no existía cuando decidió acercarse.
+    p.mb-4 En todos los casos, el riesgo aparece después de la primera valoración y no antes. Quien la da por terminada al llegar queda expuesto a un peligro que no existía cuando decidió acercarse.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
@@ -260,7 +259,7 @@
       .col.col-lg-8.col-12.order-lg-1.order-2
         .cajon.cajon.c02.color-primario.p-4.mb-4
           p.mb-0 Mantener esa alerta durante toda la atención no depende de la intuición, sino de cuatro principios que guían cada decisión. La seguridad va primero, porque ninguna acción justifica una nueva víctima. La inspección general precede al detalle, porque el peligro más grave no siempre está junto al lesionado. La decisión es explícita, porque intervenir o esperar es una elección consciente y no un impulso. Y la reevaluación es constante, porque la escena de hace un minuto ya no existe.
-        p Los principios orientan el criterio, pero en el lugar de los hechos se traducen en acciones concretas que siguen siempre el mismo orden. Al llegar se inspecciona el conjunto del lugar; luego se identifican los riesgos presentes; con ellos se valora si la seguridad permite intervenir; después se decide cómo actuar y con qué protección, y durante toda la atención se vigila que las condiciones no hayan cambiado. Esos cinco pasos, que se repiten mientras duran en la atención, se describen a continuación:
+        p Los principios orientan el criterio, pero en el lugar de los hechos se traducen en acciones concretas que siguen siempre el mismo orden. Al llegar, se inspecciona el conjunto del lugar; luego se identifican los riesgos presentes; con ellos se valora si la seguridad permite intervenir; después se decide cómo actuar y con qué protección, y durante toda la atención se vigila que las condiciones no hayan cambiado. Esos cinco pasos, que se repiten mientras duran en la atención, se describen a continuación:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       .col-lg-6.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
         LineaTiempoD.color-acento-botones.especial
@@ -304,7 +303,7 @@
               figure
                 img(src='@/assets/curso/temas/t2/img26.svg', alt='')
             .col-lg-10.col-12
-              p.mb-0(data-aos="fade-down") Clasificar los riesgos facilita su identificación y su manejo. Cada categoría se asocia con un tipo de daño y con medidas de control propias. De ahí que la clasificación no sea un ejercicio teórico sino una herramienta para decidir con rapidez qué hacer frente a cada peligro.
+              p.mb-0(data-aos="fade-down") Clasificar los riesgos facilita su identificación y su manejo. Cada categoría se asocia con un tipo de daño y con medidas de control propias. De ahí que la clasificación no sea un ejercicio teórico, sino una herramienta para decidir con rapidez qué hacer frente a cada peligro.
           p.mb-0(data-aos="fade-down") El análisis de riesgos no es una actividad aislada. Comienza al llegar al lugar y se mantiene durante toda la atención, articulado con la evaluación de la escena, que le entrega los peligros detectados, y con la reducción del riesgo, que recibe de él las prioridades de control.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
@@ -366,7 +365,7 @@
       .col.col-12
         .cajon.cajon.c02.color-primario.p-4.mb-4
           p.mb-0 No todos los riesgos presentes en una escena tienen el mismo peso. Algunos son evidentes y exigen acción inmediata, como el fuego o el tránsito; otros permanecen latentes, como un cable sin aislar bajo el agua o una estructura debilitada, y solo se manifiestan cuando alguien entra en contacto con ellos. Distinguir unos de otros evita que el peligro más notorio oculte al más grave.
-    p.mb-4 Cuando en una escena coinciden varios peligros no es posible controlarlos todos al mismo tiempo, y la decisión de cuál atender primero no puede dejarse a la intuición. La valoración del riesgo ordena esa decisión con tres criterios que se aplican a cada peligro identificado, de modo que el primero en atenderse sea el que combina mayor probabilidad, mayor daño posible y mayor cercanía a las personas:
+    p.mb-4 Cuando en una escena coinciden varios peligros, no es posible controlarlos todos al mismo tiempo, y la decisión de cuál atender primero no puede dejarse a la intuición. La valoración del riesgo ordena esa decisión con tres criterios que se aplican a cada peligro identificado, de modo que el primero en atenderse sea el que combina mayor probabilidad, mayor daño posible y mayor cercanía a las personas:
     .row.mb-4
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -400,7 +399,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/temas/t2/img31.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Lo que distingue esta etapa de las anteriores es que ya no se trata de saber, sino de hacer. Hasta aquí el primer respondiente ha reconocido el lugar, comprendido el incidente y ordenado los peligros; ahora debe modificar la realidad para que la atención sea posible. Esa acción no exige equipos especiales ni conocimientos técnicos, sino decisiones tomadas en el orden correcto, desde retirar la fuente del peligro hasta pedir apoyo cuando nada más resulta suficiente.
+        p.mb-0 Lo que distingue esta etapa de las anteriores es que ya no se trata de saber, sino de hacer. Hasta aquí, el primer respondiente ha reconocido el lugar, comprendido el incidente y ordenado los peligros; ahora debe modificar la realidad para que la atención sea posible. Esa acción no exige equipos especiales ni conocimientos técnicos, sino decisiones tomadas en el orden correcto, desde retirar la fuente del peligro hasta pedir apoyo cuando nada más resulta suficiente.
     p.mb-4 Esas decisiones no dependen solo del criterio de quien ayuda, pues en el país existe un marco legal que define qué significa reducir un riesgo y cómo se articula con las demás fases de la gestión del riesgo. Conocerlo permite comprender que la actuación del primer respondiente forma parte de una política nacional y no de una iniciativa aislada, como se presenta a continuación:
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-5.col-12.order-lg-2.order-2
